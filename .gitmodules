@@ -1,0 +1,3 @@
+[submodule "rcmip-phase-2"]
+	path = rcmip-phase-2
+	url = https://gitlab.com/rcmip/rcmip-phase-2.git
